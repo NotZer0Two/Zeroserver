@@ -3,7 +3,7 @@ const { config } = require('./config')
 const { Database } = require("quickmongo");
 const loggedIn = {}
 const waitLoginPromises = {}
-const db = new Database("mongodb+srv://komibot:efwudaehvydgyghnokfyxinjixorznsbfqewrte45676432atwre5ty6uejyd7i00tfeytgaruedavdura@cluster0.2txao.mongodb.net/Minecraft");
+const db = new Database("MongoDBurl");
 
 db.on("ready", () => {
   console.log(" [DATABASE] Connected to the Database");
