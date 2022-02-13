@@ -9,7 +9,6 @@
   "author": "NotZer0Two",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
     "flying-squid": "^1.5.0",
     "quick.db": "^7.1.3",
     "quickmongo": "^5.1.2",
