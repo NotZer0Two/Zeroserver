@@ -1,0 +1,19 @@
+{
+  "name": "zeroessentials",
+  "version": "2.3",
+  "description": "ZeroEssentials Made By Zer0Two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zer0Two",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeudlyYT/Flying-Squid-Essentials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeudlyYT/Flying-Squid-Essentials/issues"
+  },
+  "homepage": "https://github.com/DeudlyYT/Flying-Squid-Essentials#readme"
+}
